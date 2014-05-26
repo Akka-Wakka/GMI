@@ -1,8 +1,17 @@
 ## gradle
 .gradle
-build/
+build
+gradle
 gradlew
 gradlew.bat
 
 ## eclipse
 eclipse
+.metadata
+.settings
+.classpath
+.project
+bin
+
+## forge gradle
+run
