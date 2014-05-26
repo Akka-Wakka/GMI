@@ -1,14 +1,14 @@
 [
 {
-  "modid": "examplemod",
-  "name": "Example Mod",
-  "description": "Example placeholder mod.",
+  "modid": "akkagmi",
+  "name": "Geology, Mining & Industry",
+  "description": "Adds prospecting, geological, mining, and industrial mechanics, items, and blocks.",
   "version": "${version}",
   "mcversion": "${mcversion}",
-  "url": "",
+  "url": "https://github.com/Akka-Wakka/GMI",
   "updateUrl": "",
-  "authors": ["ExampleDude"],
-  "credits": "The Forge and FML guys, for making this example",
+  "authors": ["Akka-Wakka"],
+  "credits": "",
   "logoFile": "",
   "screenshots": [],
   "dependencies": []
